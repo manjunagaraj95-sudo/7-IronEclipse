@@ -1430,4 +1430,5 @@ const Sidebar = () => {
             </button>
         </aside>
     );
-};
+}
+export default App;
